@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 140, 255, 0.459);
+    font-size: 18px;
+}
+.back {
+    text-align: end; 
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.699);
+    font-variant-caps: all-small-caps;
+}
+.salmorejo {
+    color: orange;
+}
+
+.croquetas {
+    color: brown;
+}
+
+.eggplants {
+    color: purple;
+}
+
+.recipes {
+    font-size: 22px;
+    list-style-type: none;
+}
+
+.ingredients li {
+    font-weight: 800;
+    list-style-type: square;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    color: blue;
+}
